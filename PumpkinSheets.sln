@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PumpkinSheets.Modules.Perso
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PumpkinSheets.Modules.Personnel.Core", "src\Modules\Personnel\PumpkinSheets.Modules.Personnel.Core\PumpkinSheets.Modules.Personnel.Core.csproj", "{D2D55615-F32F-43C6-A949-7BDDDA8B5D63}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PumpkinSheets.Abstractions", "src\PumpkinSheets.Abstractions\PumpkinSheets.Abstractions.csproj", "{16EF9518-232F-48AC-B643-0F4475895B61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{D2D55615-F32F-43C6-A949-7BDDDA8B5D63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2D55615-F32F-43C6-A949-7BDDDA8B5D63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2D55615-F32F-43C6-A949-7BDDDA8B5D63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16EF9518-232F-48AC-B643-0F4475895B61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16EF9518-232F-48AC-B643-0F4475895B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16EF9518-232F-48AC-B643-0F4475895B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16EF9518-232F-48AC-B643-0F4475895B61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
