@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PumpkinSheets.Modules.Perso
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PumpkinSheets.Abstractions", "src\PumpkinSheets.Abstractions\PumpkinSheets.Abstractions.csproj", "{16EF9518-232F-48AC-B643-0F4475895B61}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PumpkinSheets.Infrastructure", "src\PumpkinSheets.Core.Infrastructure\PumpkinSheets.Infrastructure.csproj", "{B0C880DE-2A6B-4169-9884-0FCD0E6BB5C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{16EF9518-232F-48AC-B643-0F4475895B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16EF9518-232F-48AC-B643-0F4475895B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16EF9518-232F-48AC-B643-0F4475895B61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0C880DE-2A6B-4169-9884-0FCD0E6BB5C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0C880DE-2A6B-4169-9884-0FCD0E6BB5C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0C880DE-2A6B-4169-9884-0FCD0E6BB5C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0C880DE-2A6B-4169-9884-0FCD0E6BB5C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
